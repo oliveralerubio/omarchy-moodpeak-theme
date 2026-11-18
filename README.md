@@ -34,3 +34,7 @@ This theme was created using [Aether](https://github.com/bjarneo/aether) by [@bj
 
 ### License
 MIT
+
+## Fork note
+
+Fork of [HANCORE-linux/omarchy-moodpeak-theme](https://github.com/HANCORE-linux/omarchy-moodpeak-theme) for Omarchy 4: removes the Omarchy 3 files (`waybar.css`, `walker.css`, `mako.ini`, `hyprland.conf`, `hyprlock.conf`, `swayosd.css`) that Omarchy 4 no longer reads, and adds a recoloured `unlock.png` / `preview-unlock.png`.
